@@ -1,1 +1,1 @@
-# Lab2
+# Lab2 is also about python basics.
